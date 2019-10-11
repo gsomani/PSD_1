@@ -1,0 +1,14 @@
+# Object file
+*.o
+
+# Configuraton file
+*.cf
+
+# Backup file
+*.vhd~
+
+# Binary
+*.bin
+
+# Simulation 
+*.vcd
